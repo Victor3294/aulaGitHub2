@@ -15,6 +15,7 @@ public class LerNotas01 {
 			soma =+ notas[i];
 		}
 		System.out.println("A soma das notas dos alunos é " + soma);
+		System.out.println("Mudança foda");
 		input.close();
 
 	}
